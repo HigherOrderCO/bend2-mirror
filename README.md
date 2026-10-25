@@ -1,3 +1,6 @@
+> **This is a read-only mirror of Bend 2.** The real repo, with the latest
+> code, issues and pull requests, is **[github.com/bendlang/bend](https://github.com/bendlang/bend)**.
+
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="media/hero_dark.gif"><img src="media/hero.gif" width="560" alt="Bend: a fast language that blocks AI mistakes via proof"></picture></p>
 
 In the post-AGI economy, humans will eventually stop writing and reading code,
